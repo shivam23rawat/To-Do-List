@@ -1,1 +1,1 @@
-Hosted @ https://reac-todo.netlify.app/
+Hosted @ https://shivamrawat.tech/todo-react/
